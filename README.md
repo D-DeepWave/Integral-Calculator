@@ -1,5 +1,5 @@
 # Integral-Calculator
-A simple Integral Calculator in c++. 
+Integral calculator made by C + +
 
 
 
